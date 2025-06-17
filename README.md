@@ -32,8 +32,6 @@ Explore some of my Public GitHub projects:
 - 📊 [PCA-and-LDA Dimensionality Reduction](https://github.com/duygubuket/PCA-and-LDA-Dimensionality-Reduction)
 - 💻 [Autoencoder-and-Neural-Network-Design](https://github.com/duygubuket/Autoencoder-and-Neural-Network-Design)
 
-*(Replace `#` with your actual repo links)*
-
 ---
 
 ### ☕ Let's Connect
