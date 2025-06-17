@@ -27,7 +27,7 @@ I’m a multidisciplinary researcher with academic and practical experience in *
 
 Explore some of my Public GitHub projects:
 
-- 🧠 [Alzheimer-s-Disease-Prediction-and-Risk-Assessment](https://github.com/duygubuket/Alzheimer-s-Disease-Prediction-and-Risk-Assessment)]
+- 🧠 [Alzheimer-s-Disease-Prediction-and-Risk-Assessment](https://github.com/duygubuket/Alzheimer-s-Disease-Prediction-and-Risk-Assessment)
 - 🔬 [Studying VUS Variants in Sjögren-Larsson Syndrome (SLS)](https://github.com/duygubuket/Studying-VUS-Variants)
 - 📊 [PCA-and-LDA Dimensionality Reduction](https://github.com/duygubuket/PCA-and-LDA-Dimensionality-Reduction)
 - 💻 [Autoencoder-and-Neural-Network-Design](https://github.com/duygubuket/Autoencoder-and-Neural-Network-Design)
