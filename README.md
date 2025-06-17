@@ -25,14 +25,12 @@ I’m a multidisciplinary researcher with academic and practical experience in *
 
 ### 📁 GitHub Repositories
 
-Explore some of my GitHub projects:
+Explore some of my Public GitHub projects:
 
-- 🔬 [Alzheimer-s-Disease-Prediction-and-Risk-Assessment](https://github.com/duygubuket/Alzheimer-s-Disease-Prediction-and-Risk-Assessment)](#)
-- 🧠 [EEG Brain Signal Analysis](#)
-- 🤖 [MSVMAv Reimplementation (IJCAI 2022)](#)
-- 📊 [Mutations GOF/LOF Database](#)
-- 💻 [E-Commerce Web Application](#)
-- 📱 [Mobile App using Flutter](#)
+- 🧠 [Alzheimer-s-Disease-Prediction-and-Risk-Assessment](https://github.com/duygubuket/Alzheimer-s-Disease-Prediction-and-Risk-Assessment)]
+- 🔬 [Studying VUS Variants in Sjögren-Larsson Syndrome (SLS)](https://github.com/duygubuket/Studying-VUS-Variants)
+- 📊 [PCA-and-LDA Dimensionality Reduction](https://github.com/duygubuket/PCA-and-LDA-Dimensionality-Reduction)
+- 💻 [Autoencoder-and-Neural-Network-Design](https://github.com/duygubuket/Autoencoder-and-Neural-Network-Design)
 
 *(Replace `#` with your actual repo links)*
 
