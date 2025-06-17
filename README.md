@@ -4,7 +4,7 @@
 🎓 M.S. Information & Communication Engineering @ Istanbul Technical University  
 🎓 Double B.S. in Computer Science and Engineering & Molecular Biology, Genetics and Bioengineering @ Sabancı University  
 🌍 Istanbul, Turkey  
-📧 duygubuketbiyik@gmail.com | [LinkedIn](https://www.linkedin.com/in/duygubuketbiyik)
+📧 duygubuketbiyik@gmail.com | [LinkedIn](https://www.linkedin.com/in/duygu-buket-biyik-842801172/)
 
 ---
 
@@ -37,5 +37,5 @@ Explore some of my Public GitHub projects:
 ### ☕ Let's Connect
 
 📫 [duygubuketbiyik@gmail.com](mailto:duygubuketbiyik@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/duygubuketbiyik)  
+🔗 [LinkedIn](https://www.linkedin.com/in/duygu-buket-biyik-842801172/k)  
 🌐 [GitHub](https://github.com/duygubuket)
