@@ -10,7 +10,7 @@
 
 ### 🧬 About Me
 
-I’m a multidisciplinary researcher with academic and practical experience in **bioinformatics**, **machine learning**, and **software engineering**. With a double major in Computer Engineering and Molecular Biology, I’m passionate about building computational tools that accelerate scientific discovery—especially in genomics and healthcare.
+I’m a multidisciplinary researcher with academic and practical experience in **bioinformatics**, **machine learning**, and **data engineering**. With a double major in Computer Engineering and Molecular Biology, I’m passionate about building computational tools that accelerate scientific discovery—especially in genomics and healthcare.
 
 ---
 
