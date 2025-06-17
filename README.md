@@ -22,33 +22,12 @@ I’m a multidisciplinary researcher with academic and practical experience in *
 
 ---
 
-### 🧪 Featured Projects
-
-#### 🔬 Variant Calling Pipelines Performance Analysis (2025)
-Comparative study of VCF files from tumor/normal samples using **Galaxy** and **CoSAP**, measuring precision and sensitivity of pipelines like **BWA**, **Strelka**, and **SomaticSniper**.
-
-#### 🤖 MSVMAv – SVM Margin Distribution Optimization (2025)
-Python implementation of **IJCAI-22’s MSVMAv method**, which improves classifier generalization by optimizing the margin distribution's semi-variance/mean ratio.
-
-#### 🧬 GOF/LOF Mutation Database (2023)
-Developed a curated database of **Gain/Loss-of-Function mutations** in protein-coding regions for variant effect prediction (Graduation Thesis).
-
-#### 🧠 EEG Brain Movement Analysis (2022)
-Analyzed brain signal synchronization using **frequency tagging** and hemispheric activity patterns from EEG recordings.
-
-#### 🛍️ E-Commerce Web App (2023)
-Full-stack web application using **Node.js**, **Spring Boot**, and **React.js** for a scalable online store.
-
-#### 📱 Social Media Mobile App (2022)
-Educational social platform for university students using **Flutter/Dart** and Firebase for backend integration.
-
----
 
 ### 📁 GitHub Repositories
 
 Explore some of my GitHub projects:
 
-- 🔬 [Variant Analysis Pipelines](#)
+- 🔬 [Alzheimer-s-Disease-Prediction-and-Risk-Assessment](https://github.com/duygubuket/Alzheimer-s-Disease-Prediction-and-Risk-Assessment)](#)
 - 🧠 [EEG Brain Signal Analysis](#)
 - 🤖 [MSVMAv Reimplementation (IJCAI 2022)](#)
 - 📊 [Mutations GOF/LOF Database](#)
